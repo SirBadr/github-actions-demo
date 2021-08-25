@@ -5,4 +5,4 @@ This is a repo for building Github Actions
 Create a virtualenv
 """python3 -m venv ~/.github-actions-demo"""
 Source it
-"""source ~/.github-actions-demo"""
+"""source ~/.github-actions-demo/bin/activate"""
